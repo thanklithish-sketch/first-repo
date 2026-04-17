@@ -1,3 +1,2 @@
-a=input("enter your name ")
-print("")
+a=max
 print("how are you ",a,"\nsee you tomorrow")
